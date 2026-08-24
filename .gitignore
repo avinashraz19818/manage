@@ -1,0 +1,8 @@
+# 🚫 bot runtime files
+.venv/
+__pycache__/
+*.session
+*.session-journal
+bot.log
+bot.pid
+database.json
